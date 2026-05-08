@@ -56,3 +56,18 @@ http://localhost
 ## Author
 
 Theodore King
+
+
+## Screenshots
+
+### VS Code Project Structure
+![VS Code Structure](screenshots/01-vscode-structure.png)
+
+### Registration Form
+![Registration Form](screenshots/02-localhost-form.png)
+
+### Registration Records
+![Registration Records](screenshots/03-registration-records.png)
+
+### Gunicorn Running
+![Gunicorn Terminal](screenshots/04-gunicorn-terminal.png)
