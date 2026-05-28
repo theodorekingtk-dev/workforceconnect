@@ -12,7 +12,7 @@ This application allows users to submit registration information through a live 
 - Flask Backend Application
 - MySQL Database
 
-This project was completed as part of the BCE Cloud Engineers Bootcamp Week 1 Linux & On-Premises Application Build. :contentReference[oaicite:0]{index=0}
+This project was completed as part of the BCE Cloud Engineers Bootcamp Week 1 Linux & On-Premises Application Build.
 
 ---
 
@@ -32,7 +32,7 @@ The project focused heavily on:
 - Gunicorn production deployment
 - Full-stack application troubleshooting
 
-The project architecture directly mirrors the same deployment structure later used inside AWS cloud infrastructure environments. :contentReference[oaicite:1]{index=1}
+The project architecture directly mirrors the same deployment structure later used inside AWS cloud infrastructure environments.
 
 ---
 
@@ -110,7 +110,7 @@ This architecture simulates how many real-world production environments operate 
 
 One of the primary objectives of this project was building a realistic full-stack environment while maintaining a zero-cost deployment budget.
 
-The entire Week 1 project was intentionally designed using free and open-source tools. :contentReference[oaicite:2]{index=2}
+The entire Week 1 project was intentionally designed using free and open-source tools.
 
 ---
 
@@ -128,7 +128,7 @@ The entire Week 1 project was intentionally designed using free and open-source 
 | Git & GitHub | Source control and repository hosting | $0.00 |
 | TOTAL | Complete project cost | $0.00 |
 
-This project emphasized cost awareness and resource accountability while still building a production-style application stack. :contentReference[oaicite:3]{index=3}
+This project emphasized cost awareness and resource accountability while still building a production-style application stack.
 
 ---
 
@@ -277,7 +277,7 @@ The application stores user data inside the `registrations` table.
 
 VS Code project structure displaying the Flask application files, templates folder, setup script, and project organization.
 
-![VS Code Structure](screenshots/VS Code Project Structure!/vscode-structure.png).png
+![VS Code Structure](screenshots/vscode-structure.png)
 
 ---
 
@@ -285,7 +285,7 @@ VS Code project structure displaying the Flask application files, templates fold
 
 Live registration form running locally through the Nginx reverse proxy architecture.
 
-![Registration Form](screenshots/Registration Form!/registration-form.png).png
+![Registration Form](screenshots/registration-form.png)
 
 ---
 
@@ -293,7 +293,7 @@ Live registration form running locally through the Nginx reverse proxy architect
 
 Registration records page displaying data dynamically retrieved from the MySQL database.
 
-![Registration Records](screenshots/Registration Records!/registration-records.png).png
+![Registration Records](screenshots/registration-records.png)
 
 ---
 
@@ -301,7 +301,7 @@ Registration records page displaying data dynamically retrieved from the MySQL d
 
 Gunicorn production application server actively hosting the Flask application.
 
-![Gunicorn Running](screenshots/Gunicorn Running!/gunicorn-terminal.png).png
+![Gunicorn Running](screenshots/gunicorn-terminal.png)
 
 ---
 
@@ -403,6 +403,11 @@ These troubleshooting scenarios provided hands-on experience similar to issues c
 - Managed source control using Git and GitHub
 - Simulated a production-style on-premises application environment
 
+---
+
+# Author
+
+Theodore King
 ---
 
 # Author
